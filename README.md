@@ -22,4 +22,4 @@
 ---
 
 ### 📊 Stats do GitHub:
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSouza115&show_icons=true&theme=dracula)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSouza115&show_icons=true&theme=dracula)
