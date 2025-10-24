@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/d5b5ce50-c2ae-4e18-ad8e-da6ee2f90008" width="100%" />
+<img src="https://github.com/user-attachments/assets/d5b5ce50-c2ae-4e18-ad8e-da6ee2f90008" width="100%"  height="20%"/>
 
 # 👋 Prazer, me chamo Rafael Souza
 
