@@ -1,4 +1,7 @@
-# 👋 E aí! Eu sou o Rafael
+
+![Imagem do WhatsApp de 2025-10-23 à(s) 21 36 15_e75c3cc3](https://github.com/user-attachments/assets/d5b5ce50-c2ae-4e18-ad8e-da6ee2f90008)
+
+# 👋 Prazer, me chamo Rafael Souza
 
 💻 Estudante de tecnologia  
 🏋️‍♂️ Faço academia e curto aprender coisas novas  
@@ -19,4 +22,4 @@
 ---
 
 ### 📊 Stats do GitHub:
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsouza&show_icons=true&theme=dracula)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSouza115&show_icons=true&theme=dracula)
