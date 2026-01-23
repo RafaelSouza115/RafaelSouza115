@@ -10,7 +10,7 @@
 ---
 
 ### 🚧 Projetos em andamento: 
-- 🍷 Site WineTech  
+- GRUD Angular e .Net Core
 
 ---
 
