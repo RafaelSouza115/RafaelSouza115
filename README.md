@@ -1,22 +1,59 @@
-# Prazer, me chamo Rafael Souza
+<h1 align="center">Olá 👋, eu sou Rafael Souza</h1>
 
-💻 Estudante de tecnologia  
-🏋️‍♂️ Faço academia e curto aprender coisas novas  
-📫 Me chama no [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rafael-souza-58aa572b8/)) ou aqui no GitHub mesmo  
-
----
-
-### 🚧 Projetos em andamento: 
-- GRUD Angular e .Net Core
+<p align="center">
+  Estagiário de TI no Banco Safra • Estudante de ADS na SPTech • Futuro Desenvolvedor Full Stack
+</p>
 
 ---
 
-### ⚙️ Linguagens que mais uso:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 Sobre mim
+
+- 💼 Atualmente atuo como Estagiário de TI no Banco Safra
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech
+- 📚 Atualmente no 2º semestre
+- 🎯 Focado em me tornar Desenvolvedor Full Stack
+- 🌱 Estudando Angular, TypeScript e desenvolvimento web moderno
 
 ---
 
-### 📊 Stats do GitHub:
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSouza115&show_icons=true&theme=dracula)
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,nodejs,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelSouza115&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSouza115&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelSouza115&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌎 Contato
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rafael.asantos@sptech.school">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
