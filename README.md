@@ -1,7 +1,4 @@
-
-<img src="https://github.com/user-attachments/assets/d5b5ce50-c2ae-4e18-ad8e-da6ee2f90008" style="max-width: 100%; height: auto;"/>
-
-# 👋 Prazer, me chamo Rafael Souza
+# Prazer, me chamo Rafael Souza
 
 💻 Estudante de tecnologia  
 🏋️‍♂️ Faço academia e curto aprender coisas novas  
