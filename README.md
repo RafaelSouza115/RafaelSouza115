@@ -57,3 +57,7 @@
 <a href="mailto:rafael.asantos@sptech.school">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://www.instagram.com/sorza_kj/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
