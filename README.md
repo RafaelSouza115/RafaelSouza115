@@ -50,7 +50,7 @@
 
 ## 🌎 Contato
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/rafael-souza-58aa572b8/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
